@@ -1,4 +1,4 @@
-# gofer-web
+# Gofer
 
 ## Project setup
 ```
